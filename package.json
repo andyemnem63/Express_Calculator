@@ -1,0 +1,22 @@
+{
+  "name": "express_calculator",
+  "version": "1.0.0",
+  "description": "Calculator using express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyemnem63/Express_Calculator.git"
+  },
+  "author": "Andy Em",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyemnem63/Express_Calculator/issues"
+  },
+  "homepage": "https://github.com/andyemnem63/Express_Calculator#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
